@@ -115,8 +115,7 @@ A production-grade cloud security monitoring system that ingests logs, detects a
 | 📜 | **Cisco Ethical Hacking** — Penetration testing, vulnerability assessment, exploitation techniques |
 | 🔬 | **Patent Filed** — Hardware-Embedded System for Physical-Layer Peripheral Behavioural Trust Assessment and Adaptive Threat Mitigation (App No: 202641021638) |
 | 🏁 | **KI CTF** — Ranked 13th of 50 teams, Kumaraguru College of Engineering and Technology |
-| 🎤 | **IIT Madras Shastra** · IBM International Conference Bangalore · IIT Palakkad Petrichor Workshop |
-| 💥 | **Aventus 2.0 Hackathon** participant |
+
 
 ---
 
